@@ -1,0 +1,358 @@
+1;Сайн байна уу?;Sain baina uu?;Hello (formal)
+1;Сайн уу?;Sain uu?;Hello (informal)
+1;Өглөөний мэнд!;Öglöönii mend!;Good morning!
+1;Өдрийн мэнд!;Ödriin mend!;Good afternoon!
+1;Оройн мэнд!;Oroin mend!;Good evening!
+1;Баяртай!;Bayartai!;Goodbye!
+1;Дараа уулзъя!;Daraa uulzya!;See you later!
+1;Гуйя.;Guiya.;Please (when asking)
+1;Баярлалаа.;Bayarlalaa.;Thank you.
+1;Зүгээрээ.;Zugeeree.;You're welcome / It's OK.
+1;Уучлаарай.;Uuchlaarai.;Excuse me / Sorry.
+1;Тийм.;Tiim.;Yes.
+1;Үгүй.;Ügüi.;No.
+1;За.;Za.;OK / Alright.
+1;Миний нэр …;Minii ner …;My name is …
+1;Таны нэр хэн бэ?;Tanii ner khen be?;What is your name?
+1;Танилцсандаа таатай байна.;Taniltsandaa taatai baina.;Nice to meet you.
+1;Юу байна?;Yu baina?;How are you? (casual)
+1;Би зүгээр.;Bi zügeer.;I’m fine.
+1;Би муухай биш.;Bi muukhai bish.;I’m not bad.
+2;Би …-аас ирсэн.;Bi …-aas irsen.;I’m from …
+2;Би ойлгохгүй байна.;Bi oilgokhgui baina.;I don’t understand.
+2;Та англиар ярьж чадна уу?;Ta angliar yarij chadna uu?;Do you speak English?
+2;Би монголоор бага ярьдаг.;Bi mongoloor baga yardag.;I speak a little Mongolian.
+2;Удаан ярьж өгнө үү?;Udaan yarij ögnö üü?;Please speak slowly.
+2;Дахиад хэлнэ үү?;Dakhiad khelne üü?;Could you say that again?
+2;Та хаанаас вэ?;Ta haanaas ve?;Where are you from?
+2;Та юу хийдэг вэ?;Ta yu khiideg ve?;What do you do?
+2;Энэ хэд вэ?;Ene khed ve?;How much is this?
+2;Энэ;Ene;This
+2;Тэр;Ter;That
+2;Энд;End;Here
+2;Тэнд;Tend;There
+2;Хэн?;Khen?;Who?
+2;Юу?;Yu?;What?
+2;Хэзээ?;Khezee?;When?
+2;Хаана?;Khaana?;Where?
+2;Яагаад?;Yaagaad?;Why?
+3;гэр бүл;ger bül;family
+3;аав;aav;father
+3;ээж;eej;mother
+3;өвөө;övöö;grandfather
+3;эмээ;emee;grandmother
+3;ах;akh;older brother
+3;эгч;egch;older sister
+3;дүү;düü;younger sibling
+3;хүү;khüü;son
+3;охин;okhin;daughter
+3;эргэжийн найз;ergujiin naiz;fiancé(e) (lit. betrothed)
+3;эхнэр;ekhen er;wife
+3;нөхөр;nökhör;husband
+3;ах дүүс;akh düüs;siblings
+3;хамаатан;khamaatan;relative
+3;гэрлэсэн;gerlesen;married
+3;гэрлээгүй;gerleegüi;single
+3;найз;naiz;friend
+3;хүүхэд;khüükh ed;child
+3;урам хайртай;uram khairtai;loving (affectionate)
+4;тэг;teg;zero
+4;нэг;neg;one
+4;хоёр;khoyor;two
+4;гурав;gurav;three
+4;дөрөв;döröv;four
+4;тав;tav;five
+4;зургаа;zurgaa;six
+4;долоо;doloo;seven
+4;найм;naim;eight
+4;ес;yos;nine
+4;арав;arav;ten
+4;арван нэг;arvan neg;eleven
+4;арван хоёр;arvan khoyor;twelve
+4;арван гурав;arvan gurav;thirteen
+4;арван дөрөв;arvan döröv;fourteen
+4;арван тав;arvan tav;fifteen
+4;арван зургаа;arvan zurgaa;sixteen
+4;арван долоо;arvan doloo;seventeen
+4;арван найм;arvan naim;eighteen
+4;арван ес;arvan yos;nineteen
+5;зүүн;züün;left
+5;баруун;baruun;right
+5;шулуун;shuluun;straight
+5;эргэх;ergekh;to turn
+5;хойд;khoid;north
+5;өмнөд;ömnöd;south
+5;зүүн зүг;züün züg;east
+5;баруун зүг;baruun züg;west
+5;ойрхон;oirkhon;near
+5;хол;khol;far
+5;уулзвар;uulzvar;intersection
+5;гудамж;gudamj;street
+5;зам;zam;road
+5;хаяг;khayag;address
+5;газрын зураг;gazriin zurag;map
+5;автобусны буудал;avtobusny buudal;bus stop
+5;буудал;buudal;station / lodging
+5;нисэх буудал;niseh buudal;airport
+5;яаж очих вэ?;yaaj ochikh ve?;How do I get there?
+5;очих;ochikh;to go/arrive (to reach)
+6;машин;mashin;car
+6;такси;taksi;taxi
+6;автобус;avtobus;bus
+6;галт тэрэг;galt tereg;train
+6;тасалбар;tasalbar;ticket
+6;үнэ;üne;price
+6;жолооч;jolooch;driver
+6;суудал;suudal;seat
+6;явах;yavakh;to depart / go
+6;ирэх;irekh;to arrive
+6;хоцорсон;khotsorson;late
+6;цагтаа;cagtaa;on time
+6;тавцан;tavtsan;platform
+6;ачаа;achaa;luggage / cargo
+6;дугуй;dugui;bicycle
+6;мотоцикл;mototsikl;motorcycle
+6;шатахуун;shata khu un;fuel
+6;тоолуур;tooluur;meter
+6;ослын бүс;oslyn büs;seat belt
+6;замын хөдөлгөөн;zamiin khödölgöön;traffic
+7;цэс;tses;menu
+7;ус;us;water
+7;цай;tsai;tea
+7;кофе;kofe;coffee
+7;шар айраг;shar airag;beer
+7;дарс;dars;wine
+7;мах;makh;meat
+7;үхрийн мах;ükhriin makh;beef
+7;хонины мах;khoniny makh;mutton
+7;гахайн мах;gakhain makh;pork
+7;тахианы мах;takhiin makh;chicken (meat)
+7;будаа;budaa;rice
+7;шөл;shöl;soup
+7;талх;talkh;bread
+7;амттай;amttai;delicious
+7;би цадлаа.;Bi cadlaa.;I’m full.
+7;тооцоо өгөөч.;tootsoo ögööch.;Bill, please.
+7;би …-нд харшилтай.;Bi …-nd kharshiltai.;I’m allergic to …
+7;би мах иддэггүй.;Bi makh iddeg güi.;I don’t eat meat.
+7;захиалах;zakhialakh;to order
+8;мөнгө;möngö;money
+8;бэлнээр;belneer;in cash
+8;картаар;kartaar;by card
+8;баримт;barimt;receipt
+8;хариулт мөнгө;khariult möngö;change (money back)
+8;үнэтэй;ünetei;expensive
+8;хямд;khyamd;cheap
+8;хямдрал;khyamdral;discount
+8;тайлбар;tailbar;explanation
+8;хэмжээ;khemjee;size
+8;өнгө;öngö;color
+8;туршиж үзэх;turshij üzeh;to try on
+8;солих;solikh;to exchange/replace
+8;төлөх;tölökh;to pay
+8;нээлттэй;neelttei;open (business)
+8;хаалттай;khaaltai;closed (business)
+8;баталгаатай;batalgaat ai;with warranty
+8;буцаалт;buts aalt;return (of goods)
+8;үнэ тохирох;üne tokhirokh;to bargain
+8;дэлгүүр;delgüür;shop/store
+9;өрөө;öröö;room
+9;зочид буудал;zochid buudal;hotel
+9;урсгалын ус;ursgaliin us;running water
+9;шүршүүр;shürshüür;shower
+9;жорлон;jorlon;toilet
+9;нэг ортой;neg ortoi;single bed
+9;хоёр ортой;khoyor ortoi;double/twin bed
+9;захиалга;zakhialga;reservation/booking
+9;чөлөөтэй;chölööt ei;available (vacant)
+9;оройн хоол;oroin khool;dinner
+9;өглөөний цай;öglöönii tsai;breakfast
+9;үнэгүй;üne güi;free (no charge)
+9;Wi-Fi;Wi-Fi;Wi-Fi
+9;үлдэгдэл;üldegdel;balance (amount due)
+9;орлуулах өрөө;orluulakh öröö;replacement room
+9;үзүүлэх;üzüulekh;to show
+9;авах;avakh;to take
+9;түлхүүр;tülkhiür;key
+9;тасалгаа;tasalgaa;section / compartment
+9;лифт;lift;elevator
+10;эмнэлэг;emneleg;hospital
+10;эмч;emch;doctor
+10;эмийн сан;emiin san;pharmacy
+10;өвдөх;övdökh;to hurt / be sick
+10;өвчин;övchin;illness
+10;яаралтай тусламж;yaaraltai tuslamj;emergency
+10;түлэгдэх;tüldegkh;to burn (injury)
+10;гэдэс өвдөж байна.;gedes övdöj baina.;I have a stomachache.
+10;толгой өвдөж байна.;tolgoi övdöj baina.;I have a headache.
+10;халуурах;khaluurakh;to have a fever
+10;даарах;daarakh;to feel cold (chilled)
+10;эм;em;medicine (pill)
+10;тарилга;tarilga;injection
+10;харшил;kharshil;allergy
+10;ядарч байна.;yadarch baina.;I’m tired.
+10;сэрүүлэг;serüüleg;alarm (device)
+10;даатгал;daatgal;insurance
+10;эрүүл мэнд;erüül mend;health
+10;амралт;amralt;rest
+10;ус уух;us uukh;to drink water
+11;цаг;tsag;hour / o’clock
+11;минут;minut;minute
+11;өдөр;ödör;day
+11;шөнө;shönö;night
+11;өглөө;öglöö;morning
+11;өдөр дунд;ödör dund;noon
+11;орой;oroi;evening
+11;маргааш;margaash;tomorrow
+11;өчигдөр;öchigdör;yesterday
+11;өнөөдөр;önöö dör;today
+11;7 хоног;doloo honog;week
+11;сар;sar;month
+11;жил;jil;year
+11;агаар;agaar;air / weather
+11;салхи;salkhi;wind
+11;цас;tsas;snow
+11;бороо;boroo;rain
+11;нар;n ar;sun
+11;сүүдэр;süüd er;shade / shadow
+11;улирал;uliral;season
+12;улаан;ulaan;red
+12;хөх;khökh;blue
+12;ногоон;nogo on;green
+12;шар;shar;yellow
+12;хар;khar;black
+12;цагаан;tsagaan;white
+12;саарал;saaral;gray
+12;бор;bor;brown
+12;ягаан;yagaan;pink
+12;нил ягаан;nil yagaan;purple
+12;том;tom;big
+12;жижиг;jijig;small
+12;урт;urt;long
+12;богино;bogino;short
+12;сайхан;saikhan;nice/beautiful
+12;муу;muu;bad
+12;шинэ;shine;new
+12;хуучин;khuuchin;old (not new)
+12;халуун;khaluun;hot (temperature)
+12;хүйтэн;khüiten;cold
+13;хийх;khiikh;to do / make
+13;байх;baik h;to be / exist
+13;явахаар байна;yavakhaar baina;to be about to go
+13;ирэхээр байна;irekheer baina;to be about to come
+13;тэнэх;tenekh;to stroll / wander
+13;алхах;alkhakh;to walk
+13;гүйх;güikh;to run
+13;ярих;yarikh;to speak
+13;сонсох;sonsokh;to listen
+13;унших;unshikh;to read
+13;бичих;bichikh;to write
+13;харих;khari kh;to return (home)
+13;үзэх;üze kh;to see / watch
+13;сурагч;s uragch;student
+13;ажиллах;ajillakh;to work
+13;амрах;amrakh;to rest / vacation
+13;идэх;idekh;to eat
+13;уух;uukh;to drink
+13;өгөх;ögökh;to give
+13;авах;avakh;to take/get
+14;зөв;zöv;correct / right
+14;буруу;buruu;wrong
+14;болно;bolno;it’s okay / allowed
+14;болохгүй;bolokhgüi;not allowed / cannot
+14;хүсэх;khüsekh;to want
+14;чадах;chadakh;to be able (can)
+14;туслаач!;tuslaach!;Help!
+14;анхаараарай!;ankhaaraarai!;Attention! / Watch out!
+14;болгоомжтой бай!;bolgoomjtoi bai!;Be careful!
+14;хаана байдаг вэ?;khaana baidag ve?;Where is it?
+14;хэн нэгэн;khen negen;someone
+14;ямар нэг зүйл;yamar neg zuil;something
+14;энд байна.;end baina.;It is here.
+14;тэнд байна.;tend baina.;It is there.
+14;алга.;alga.;None / not available.
+14;байгаа.;baigaa.;There is / available.
+14;үнэн;ünen;true
+14;худал;khudal;false
+14;асуулт;asuult;question
+14;хариулт;khariult;answer
+15;зам зааж өгнө үү?;zam zaaj ögnö üü?;Please give me directions.
+15;энэ хаашаа явдаг вэ?;ene khaa shaa yavdag ve?;Where does this go?
+15;та очоод…;ta ochood…;After you arrive…
+15;баруун тийш эргэнэ үү.;baruun tiish ergene üü.;Turn right, please.
+15;зүүн тийш эргэнэ үү.;züün tiish ergene üü.;Turn left, please.
+15;шулуун явна.;shuluun yavna.;Go straight.
+15;ойролцоо;o iroltsoo;nearby
+15;хэсэг алхаад;kheseg alkhaad;walk a bit
+15;дамжин сууна;damjin suuna;transfer (transport)
+15;тасалбараа үзүүлнэ үү.;tasalbaraa üzülne üü.;Show your ticket, please.
+15;үнэ хэд вэ?;üne khed ve?;What is the price?
+15;хүүтэй юу?;khüütei yu?;Is there interest/fee?
+15;бэлэн мөнгө байна.;belen möngö baina.;I have cash.
+15;карт байна.;kart baina.;I have a card.
+15;тооцоо хийе.;tootsoo khiye.;Let’s pay / I’ll settle the bill.
+15;дардас;dardas;stamp (official)
+15;лавлах;lavlakh;to inquire
+15;мэдээлэл;medeelel;information
+15;албан газар;alban gazar;office
+15;боомт;boomt;port / checkpoint
+16;гэр;ger;home / traditional tent (yurt)
+16;байр;bair;apartment
+16;гал тогоо;gal togoo;kitchen
+16;угаалгын өрөө;ugaalgiin öröö;bathroom
+16;зочны өрөө;zochnii öröö;living room
+16;унтлагын өрөө;untlagyn öröö;bedroom
+16;тавилга;tavilga;furniture
+16;ширээ;shiree;table
+16;сандал;sandal;chair
+16;хувцас;khuvtsas;clothes
+16;угаах;ugaakh;to wash
+16;индүүдэх;indüüdekh;to iron
+16;цэвэрлэх;tseverlekh;to clean
+16;хийж дуусгах;khij duusgakh;to finish (doing)
+16;эхлэх;ekhlek h;to start/begin
+16;төлөвлөх;tölövlökh;to plan
+16;өдрийн хоол;ödriin khool;lunch
+16;амтлагч;amtl agch;spice/seasoning
+16;хоол хийх;khool khiikh;to cook
+16;амт оруулах;amt oruulakh;to season
+17;эмнэлгийн карт;emnegliin kart;medical card
+17;томилгоо;tomilgoo;appointment
+17;шинжилгээ;shinjilge e;test (medical)
+17;сөгнөх асуулга;sgönökh asuulga;questionnaire
+17;даатгалын гэрээ;daatgaliin geree;insurance policy
+17;өвдөлтөөр;övdöltöör;with pain
+17;амьсгаа авахад хэцүү;am'sgaa avakhad khetsüü;hard to breathe
+17;эрүүл хооллолт;erüül khoollolt;healthy diet
+17;тамхи татахгүй;tamkhi tatakhgüi;no smoking
+17;архигүй орчин;arhigüi orchin;alcohol-free area
+17;анхны тусламж;ankhny tuslamj;first aid
+17;эмчилгээ;emchilgee;treatment
+17;шинж тэмдэг;shinj temdeg;symptom
+17;онош;onosh;diagnosis
+17;эмчийн заавар;emchiin zaavar;doctor’s instructions
+17;эмийн жор;emiin jor;prescription
+17;эмийн тун;emiin tun;dosage
+17;хэрэглэх заавар;khereglekh zaavar;directions for use
+17;гаж нөлөө;gaj nölöö;side effect
+17;анхааруулга;ankhaar uulga;warning
+18;хаашаа явж байна вэ?;khaashaa yavj baina ve?;Where are you going?
+18;хаана уулзах вэ?;khaana uulzakh ve?;Where shall we meet?
+18;та хэзээ завтай вэ?;ta khezee zavtai ve?;When are you free?
+18;энэ боломжтой юу?;ene bolomjtoi yu?;Is this possible?
+18;боломжоор нь;bolomjoor ni;as possible / if possible
+18;цаг товлох;tsag tovlo kh;to set a time
+18;утас;utas;phone
+18;дугаар;dugaar;number
+18;мессеж;messej;text message
+18;дэлгэрэнгүй;delgerengüi;in detail
+18;богино;bogino;short (length/time)
+18;урьдчилан;ur'dchilan;in advance
+18;дараа нь;daraa ni;later
+18;одоо;odoo;now
+18;даруй;darui;immediately
+18;хүлээнэ үү.;khüleene üü.;Please wait.
+18;орчуулга;orchuulga;translation
+18;толь бичиг;tol bichig;dictionary
+18;хэллэг;khelleg;expression / phrase
+18;аюулгүй байдал;ayuulgüi baidal;safety
